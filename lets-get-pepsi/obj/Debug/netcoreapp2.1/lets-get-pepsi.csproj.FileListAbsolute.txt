@@ -1,0 +1,10 @@
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\bin\Debug\netcoreapp2.1\lets-get-pepsi.deps.json
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\bin\Debug\netcoreapp2.1\lets-get-pepsi.runtimeconfig.json
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\bin\Debug\netcoreapp2.1\lets-get-pepsi.runtimeconfig.dev.json
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\bin\Debug\netcoreapp2.1\lets-get-pepsi.dll
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\bin\Debug\netcoreapp2.1\lets-get-pepsi.pdb
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\obj\Debug\netcoreapp2.1\lets-get-pepsi.csproj.CoreCompileInputs.cache
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\obj\Debug\netcoreapp2.1\lets-get-pepsi.AssemblyInfoInputs.cache
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\obj\Debug\netcoreapp2.1\lets-get-pepsi.AssemblyInfo.cs
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\obj\Debug\netcoreapp2.1\lets-get-pepsi.dll
+C:\Users\ikejun\Source\Repos\C#\lets-get-pepsi\lets-get-pepsi\obj\Debug\netcoreapp2.1\lets-get-pepsi.pdb
